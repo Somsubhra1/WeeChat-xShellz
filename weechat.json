@@ -1,0 +1,10 @@
+[
+ {
+ "placeholder":"Install WeeChat automatically",
+ "format":"button",
+ "type": "submit",
+ "isMandatory": "true",
+ "name" : "submit",
+ "value": "Install WeeChat now"
+ }
+]
